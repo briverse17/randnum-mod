@@ -81,5 +81,5 @@ V - References:
 	>https://vimentor.com/vi/course/linux-device-driver?type=lesson
 2. **randnum_mod.c** is based on:
 	>https://sites.google.com/site/embedded247/ddcourse/device-drivers-phan-5-character-device-files
-|--------:|	
-|Nguyen Minh Vu - 2019|
+	
+<div style="text-align: right"> Nguyen Minh Vu - Nov, 2019 </div>
