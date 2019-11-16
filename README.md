@@ -29,7 +29,7 @@ II - Makefiles:
 -------
 1. *randnum_mod.c*
 - `$ ~/Randnum$ make`
-- The result should looks like:
+- The result should look like:
 	>	```
 	>	make -C /lib/modules/``uname -r``/build M=``pwd`` modules
 	>	make[1]: Entering directory '/usr/src/linux-headers-4.15.0-70-generic'
@@ -42,7 +42,7 @@ II - Makefiles:
 	>	```
 2. *randnum.c*
 - `$ ~/Randnum/user_app$ make`
-- The result should looks like:
+- The result should look like:
 	>	`cc -o randnum randnum.c`
 
 III - Module manipulations:
@@ -58,7 +58,7 @@ IV - Use the app:
 -------
 1. Run:
 - `$ ~/Randnum/user_app$ ./randnum`
-- The result should looks like:
+- The result should look like:
 	>	```
 	>	Select options:
 	>		o (to open a device node)
@@ -81,5 +81,5 @@ V - References:
 	>https://vimentor.com/vi/course/linux-device-driver?type=lesson
 2. **randnum_mod.c** is based on:
 	>https://sites.google.com/site/embedded247/ddcourse/device-drivers-phan-5-character-device-files
-	
-Nguyen Minh Vu - 2019
+|--------:|	
+|Nguyen Minh Vu - 2019|
