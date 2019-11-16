@@ -82,4 +82,7 @@ V - References:
 2. **randnum_mod.c** is based on:
 	>https://sites.google.com/site/embedded247/ddcourse/device-drivers-phan-5-character-device-files
 	
-<div style="text-align: justify"> Nguyen Minh Vu - Nov, 2019 </div>
+
+
+Nguyen Minh Vu - Nov, 2019
+--------------------------
