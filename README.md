@@ -9,7 +9,7 @@ I - Descriptions:
 	- **Makefile** and **Kbuild**: this module is built using Kbuild method
 	- **README.md**
 	- **~/user_app**: contains *randnum.c* and its *Makefile* (for the user to get random numbers)
-	- **~/test** (not recommened): contains *randnum_mod.ko* and *randnum.exe* that are already built
+	- **~/test** (not recommended): contains *randnum_mod.ko* and *randnum.exe* that are already built
 	>Built and tested successfully on:
 	>>- [x] ubuntu 16.04 LTS 64-bit
 	>>- [x] kernel version: 4.15.0-70-generic
